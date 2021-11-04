@@ -1,0 +1,24 @@
+{
+  "name": "Thermistor",
+  "keywords": "Temperatura,NTC,Arduino",
+  "description": "Temperature Reading Library -NTS Sensor.",
+  "authors":
+  [
+    {
+      "name": "Marcio Garrido",
+      "email": "marciogarrido@id.uff.br",
+      "maintainer": true
+    },
+    {
+      "name": "Marcio Garrido"
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/marciogarridoLaCop/temperature.git"
+  },
+  "version":"0.0.1",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
